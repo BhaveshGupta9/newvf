@@ -5,7 +5,7 @@ function App() {
     <div >
       <p>hello</p>
       
-      <a href="https://meet-new.herokuapp.com/" target="_blank" >click here</a>
+      <a href="https://meet-new.herokuapp.com/" target="_blank" rel="noreferrer">click here</a>
     </div>
   );
 }
